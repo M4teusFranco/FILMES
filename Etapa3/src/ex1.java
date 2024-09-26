@@ -2,9 +2,9 @@
 public class ex1 {
 
 	public static class Filme {
-	    String titulo;
-	    int duracao;
-	    String genero;
+	    private String titulo;
+	    private int duracao;
+	    private String genero;
 
 	  
 	    public Filme (String titulo, int duracao, String genero) {
